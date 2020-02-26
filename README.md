@@ -1,4 +1,9 @@
 # Unusual-Human-Activity-Detection
+This is an implemenation of the paper https://ieeexplore.ieee.org/document/7024902
+
+Dataset : 
+1. http://www.svcl.ucsd.edu/projects/anomaly/
+
 To detect the abnormal/unusual human activities in a video
 
 A) ABSTRACT :
@@ -28,14 +33,7 @@ FFmpeg
 
 
 C) Implementation :
-The implementation phase involves the actual materialization of the ideas that are
-expressed in the analysis document and that are developed in the design phase. Implementation
-should be a perfect mapping of the design document in a suitable programming language in order
-to achieve the necessary final product. This section discusses about the important decisions
-regarding selection of the platform, the language used, etc. These decisions are often influenced
-by several factors such as the real environment in which the system works, speed that is required,
-the security concerns, other implementation-specific requirements etc. And also we have brief
-discussion on the important modules and methods that are present in the project.
+
 The code is divided into 5 modules, optflowofblocks, motioninfluencegenerator,
 createmegablocks, training and testing.
 In this section, a method for representing motion characteristics is described for the
