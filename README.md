@@ -3,6 +3,7 @@ This is an implemenation of the paper https://ieeexplore.ieee.org/document/70249
 
 Dataset : 
 1. http://www.svcl.ucsd.edu/projects/anomaly/
+2. To download Human Act Recognition KTH Dataset one can follow the link given here - https://www.mathworks.com/matlabcentral/fileexchange/55111-human-action-recognition-using-kth-dataset
 
 To detect the abnormal/unusual human activities in a video
 
